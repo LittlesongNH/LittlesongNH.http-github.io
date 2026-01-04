@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Song NIE（聂嵩）"
   pronouns         : # example: "she/her"  
-  bio              : "Lecturer, Ph.D. "
+  bio              : "marathon enthusiast"
   location         : "Nanjing, China"
   employer         : "Nanjing Normal University"
   uri              : # URL
@@ -41,7 +41,7 @@ author:
   orcid            : "https://orcid.org/0009-0008-0743-0149"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # URL
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
