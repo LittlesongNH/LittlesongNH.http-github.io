@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 Song Nie is a Lecturer at the Ginling College, Nanjing Normal University, China (2025-present). He obtained her Ph.D. degree in Public Finance from Nankai University (NKU), China (2021-2025), where he was advised by Prof. Yuqing Guo. He also had worked as a volunteer teacher at Liyang School, Anshun, Guizhou (West Plan, 2016-2017).
-
+His research focuses on the digital economy, green transition, corporate finance, and local debt.
 
 A data-driven personal website
 ======
