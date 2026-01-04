@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Song NIE（聂嵩）"
+title: # "Song NIE（聂嵩）"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Song Nie is a Lecturer at the Ginling College, Nanjing Normal University, China (2025-present). She obtained her Ph.D. degree in Public Finance from Nankai University (NKU), China (2021-2025), where she was advised by Prof. Yuqing Guo. He also had worked as a volunteer teacher at Liyang School, Anshun, Guizhou (West Plan, 2016-2017).
+Song Nie is a Lecturer at the Ginling College, Nanjing Normal University, China (2025-present). He obtained her Ph.D. degree in Public Finance from Nankai University (NKU), China (2021-2025), where he was advised by Prof. Yuqing Guo. He also had worked as a volunteer teacher at Liyang School, Anshun, Guizhou (West Plan, 2016-2017).
 
 
 A data-driven personal website
